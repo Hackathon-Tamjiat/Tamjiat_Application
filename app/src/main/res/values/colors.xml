@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#FFFFFF00</color>
+    <color name="mainColor">#002a8c</color>
+    <color name="dashboardColor1">#333E9E</color>
+    <color name="dashboardColor2">#3946AC</color>
+<!--    <color name="weatherback">#B85E5E</color>-->
+    <color name="weatherback">#95000000</color>
+
+    <color name="main_cultivated">#E0E0E0</color>
+    <color name="backColor">#F8F8F8</color>
+    <color name="dashboardColor">#EEEEEE</color>
+    <color name="progressFt">#3498db</color>
+    <color name="cropBack">#f08040</color>
+    <color name="cropnum1">#f39d12</color>
+    <color name="cropnum2">#8e44ad</color>
+    <color name="cropnum3">#27ae5f</color>
+
+    <color name="temperStart">#FF8C3F</color>
+    <color name="temperEnd">#FF6600</color>
+
+    <color name="humidityStart">#61B9FF</color>
+    <color name="humidityEnd">#008EFF</color>
+
+    <color name="lightGray">#E0E0E0</color>
+    <color name="userName">#e5c92c</color>
+    <color name="customGreen">#27ae60</color>
+    <color name="customGray">#7f7f7f</color>
+
+    <color name="photoRecapture">#202427</color>
+    <color name="photoSendBtn">#00be5f</color>
+
+    <color name="flashPhoto">#1E1E1E</color>
+
+    <color name="diseaseName">#b4604d</color>
+    <color name="germsColor">#8C8C8C</color>
+    <color name="result_card">#B5B5B5</color>
+</resources>
+
